@@ -16,7 +16,7 @@
     "import-adjutor": "^2.1.2",
     "prettier": "^2.0.5",
     "react": "^16.13.1",
-    "semantic-release": "^17.1.1",
+    "semantic-release": "^17.2.3",
     "webpack": "^4.43.0",
     "webpack-cli": "^3.3.12"
   },
